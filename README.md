@@ -70,7 +70,7 @@ pin.computeCollisions(self.robot.model, self.robot.data, collision_model, collis
 Example terminal output when executing the node:
 
 ```bash
-george@george-Latitude-5520:~$ /bin/python3.10 /home/george/new_ws/src/pino/pino/test.py
+george@george:~$ /bin/python3.10 /home/george/new_ws/src/pino/pino/test.py
 [INFO] [1743341516.318226234] [pino_robot_node]: PinoRobot Node Started
 [INFO] [1743341516.426705918] [pino_robot_node]: URDF Model Loaded Successfully
 [INFO] [1743341516.427348376] [pino_robot_node]: Transform of Link_2:
